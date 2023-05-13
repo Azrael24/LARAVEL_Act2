@@ -3,4 +3,4 @@ As a result, i have faced difficulties in configuring the project for optimal de
 
 
 
-![](public/image/landing.png)
+![](public/images/landing.png)
