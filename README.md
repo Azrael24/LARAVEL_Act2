@@ -1,6 +1,8 @@
 I must admit that i'm less knowledgeable about the specific steps involved in deploying a Laravel project.
 As a result, i have faced difficulties in configuring the project for optimal deployment on Github.
 
+But i can atleast show you the result of my laravel project.
+
 Landing page
 ![](public/images/landing.png)
 
